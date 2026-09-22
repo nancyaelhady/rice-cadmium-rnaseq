@@ -1,0 +1,35 @@
+# Sequencing reads and alignment intermediates
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.sra
+*.sam
+*.bam
+*.bai
+*.cram
+*.crai
+
+# Reference sequences and indexes
+*.fa
+*.fasta
+*.fna
+*.fa.gz
+*.fasta.gz
+*.fa.bgz
+*.fai
+*.gzi
+*.ht2
+*.ht2l
+
+# Local sessions, environments and secrets
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.env
+.venv/
+__pycache__/
+.DS_Store
+Thumbs.db
+~$*

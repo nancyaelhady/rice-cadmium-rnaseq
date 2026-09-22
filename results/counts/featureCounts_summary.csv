@@ -1,0 +1,15 @@
+,Status,SRR9113519.sorted.bam,SRR9113520.sorted.bam,SRR9113521.sorted.bam,SRR9113522.sorted.bam,SRR9113523.sorted.bam,SRR9113524.sorted.bam
+1,Assigned,15039683,16575640,16345008,16695037,17388069,17639111
+2,Unassigned_Unmapped,290986,334416,307664,383823,369774,300577
+3,Unassigned_Read_Type,0,0,0,0,0,0
+4,Unassigned_Singleton,426673,473050,449108,481746,522776,477347
+5,Unassigned_MappingQuality,0,0,0,0,0,0
+6,Unassigned_Chimera,37184,33463,52631,41471,42668,31728
+7,Unassigned_FragmentLength,0,0,0,0,0,0
+8,Unassigned_Duplicate,0,0,0,0,0,0
+9,Unassigned_MultiMapping,0,0,0,0,0,0
+10,Unassigned_Secondary,0,0,0,0,0,0
+11,Unassigned_NonSplit,0,0,0,0,0,0
+12,Unassigned_NoFeatures,1811091,1981759,2058144,1875280,1980140,1849489
+13,Unassigned_Overlapping_Length,0,0,0,0,0,0
+14,Unassigned_Ambiguity,2886188,3195999,3049669,3275512,3335231,3503637

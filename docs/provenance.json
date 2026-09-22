@@ -1,0 +1,84 @@
+[
+  {
+    "file": "scripts/archive/preprocessing_as_supplied.sh",
+    "source": "bashscript.sh",
+    "sha256": "34870507844898669b8e875d50ea87795fd3fb8d5de83219906d0c85c304c896",
+    "status": "unchanged historical upload; final execution provenance unconfirmed"
+  },
+  {
+    "file": "scripts/archive/analysis_as_supplied.R",
+    "source": "Rscript - Final.R",
+    "sha256": "2c56084146c9a23de2286d16d86c203e7a73211038bd1ebd212ea45976e25f1d",
+    "status": "unchanged historical upload; final execution provenance unconfirmed"
+  },
+  {
+    "file": "figures/pca.png",
+    "source": "Rice_Cd_RNAseq_Final_Report_revised.docx",
+    "figure_number": 1,
+    "sha256": "7905a3336e1840ae536946a94af68ead09a2229eb112083309c50202c8366321",
+    "status": "original embedded image bytes extracted; not recalculated"
+  },
+  {
+    "file": "figures/sample_correlation.png",
+    "source": "Rice_Cd_RNAseq_Final_Report_revised.docx",
+    "figure_number": 2,
+    "sha256": "6c42ae2400937821c7285a163ac3c47d5c3b0d29adc31412de250d197585de86",
+    "status": "original embedded image bytes extracted; not recalculated"
+  },
+  {
+    "file": "figures/sample_distance.png",
+    "source": "Rice_Cd_RNAseq_Final_Report_revised.docx",
+    "figure_number": 3,
+    "sha256": "5ddc8fba75ce349a1f2f0eb44833d8fcae572195e53b06d7e12a151ae58e297f",
+    "status": "original embedded image bytes extracted; not recalculated"
+  },
+  {
+    "file": "figures/top50_variable_genes.png",
+    "source": "Rice_Cd_RNAseq_Final_Report_revised.docx",
+    "figure_number": 4,
+    "sha256": "1dc48204fd14e9b0ad2fa820beb3b9be851a3de7611708737d7a8bee72aa8c38",
+    "status": "original embedded image bytes extracted; not recalculated"
+  },
+  {
+    "file": "figures/deg_summary.png",
+    "source": "Rice_Cd_RNAseq_Final_Report_revised.docx",
+    "figure_number": 5,
+    "sha256": "971616e8acbe0c43ce28e55bf7575c56fa9e1e9980eb2822dd6f544a0fb06b8a",
+    "status": "original embedded image bytes extracted; not recalculated"
+  },
+  {
+    "file": "figures/ma_plot.png",
+    "source": "Rice_Cd_RNAseq_Final_Report_revised.docx",
+    "figure_number": 6,
+    "sha256": "93b53632a36124ad258b1826cf95a8c574f853504fd7ee8c9dc8182337807592",
+    "status": "original embedded image bytes extracted; not recalculated"
+  },
+  {
+    "file": "figures/volcano.png",
+    "source": "Rice_Cd_RNAseq_Final_Report_revised.docx",
+    "figure_number": 7,
+    "sha256": "dbc04f4474586085a2b07ac6fbf48d5c9c3eac99e35298081ac91c8f4fe6fc66",
+    "status": "original embedded image bytes extracted; not recalculated"
+  },
+  {
+    "file": "figures/go_upregulated.png",
+    "source": "Rice_Cd_RNAseq_Final_Report_revised.docx",
+    "figure_number": 12,
+    "sha256": "11b22df56e71911cd0d4b889371c0dc11e26df1dcfaa6bbdff5abad972a11475",
+    "status": "original embedded image bytes extracted; not recalculated"
+  },
+  {
+    "file": "figures/go_downregulated.png",
+    "source": "Rice_Cd_RNAseq_Final_Report_revised.docx",
+    "figure_number": 13,
+    "sha256": "8304cf8987d27bda3b0f2693d2d822cdae7b83de5d4b199a6069a44e3abd8325",
+    "status": "original embedded image bytes extracted; not recalculated"
+  },
+  {
+    "file": "figures/kegg_all_degs.png",
+    "source": "Rice_Cd_RNAseq_Final_Report_revised.docx",
+    "figure_number": 14,
+    "sha256": "5a209b4b7d95e9a26a60b52d603da1a4b33c46875f7e8a87b66b0dd671d49fd5",
+    "status": "original embedded image bytes extracted; not recalculated"
+  }
+]

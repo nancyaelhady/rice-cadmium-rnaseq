@@ -1,0 +1,7 @@
+TrimmomaticPE: Started with arguments:
+ -threads 4 -phred33 SRR9113522_1.fastq SRR9113522_2.fastq 03_trimmomatic/SRR9113522_1_paired.fastq 03_trimmomatic/SRR9113522_1_unpaired.fastq 03_trimmomatic/SRR9113522_2_paired.fastq 03_trimmomatic/SRR9113522_2_unpaired.fastq ILLUMINACLIP:/home/Nancy/miniconda3/envs/rnaseq/share/trimmomatic-0.41-0/adapters/TruSeq3-PE.fa:2:30:10:8:true SLIDINGWINDOW:5:20 MINLEN:50
+ILLUMINACLIP: Using adapter file from user-specified absolute path: /home/Nancy/miniconda3/envs/rnaseq/share/trimmomatic-0.41-0/adapters/TruSeq3-PE.fa
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 22727628 Both Surviving: 21441185 (94.34%) Forward Only Surviving: 947602 (4.17%) Reverse Only Surviving: 160428 (0.71%) Dropped: 178413 (0.79%)
+TrimmomaticPE: Completed successfully
