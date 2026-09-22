@@ -62,7 +62,7 @@ Positive log₂ fold changes indicate higher expression in Cd; negative values i
 
 ### Functional interpretation
 
-![Selected GO terms among upregulated genes](figures/GO_upregulated_dotplot_page-0001.png)
+![Selected GO terms among upregulated genes](figures/GO_upregulated_dotplot_page-0001.jpg)
 
 This plot summarizes selected GO terms from the report. Bar length represents fold enrichment, not expression fold change or statistical significance. The full enrichment tables are needed to inspect adjusted P values, gene sets and annotation coverage.
 
