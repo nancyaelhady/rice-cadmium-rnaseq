@@ -14,7 +14,7 @@ An independent reanalysis of public paired-end RNA-seq data from rice shoots exp
 | Reference used in the project | IRGSP-1.0 genome with corresponding rice gene annotation |
 | Original publication | [Sun et al. (2019), Scientific Reports](https://doi.org/10.1038/s41598-019-46684-w) |
 
-The experiment and sequencing were performed by the original study authors. This repository documents a computational reanalysis. Run-to-condition assignments are documented in [metadata notes](metadata/).
+The experiment and sequencing were performed by the original study authors. This repository documents a computational reanalysis. Run-to-condition assignments are documented in [metadata](metadata/).
 
 ## Workflow
 
