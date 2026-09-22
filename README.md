@@ -50,23 +50,23 @@ Enrichment highlighted photosynthesis and chloroplast functions, redox-related p
 
 ### Sample relationships
 
-![PCA of the six rice shoot libraries](figures/pca.png)
+![PCA of the six rice shoot libraries](figures/PCA_Cd_vs_Control.png)
 
 PC1 captures a major treatment-associated pattern, but Cd_1 occupies an intermediate position. The correlation and distance heatmaps also place Cd_1 closer to some control samples than to the other treated samples. The groups therefore do not show uniformly clean separation. PC1's 86% describes variance in the PCA input, not a percentage of variance proven to be caused by cadmium.
 
 ### Differential expression
 
-![Volcano plot of Cd versus Control](figures/volcano.png)
+![Volcano plot of Cd versus Control](figures/volcano_Cd_vs_Control.png)
 
 Positive log₂ fold changes indicate higher expression in Cd; negative values indicate lower expression. The thresholds define statistical and effect-size criteria, not experimental validation.
 
 ### Functional interpretation
 
-![Selected GO terms among upregulated genes](figures/go_upregulated.png)
+![Selected GO terms among upregulated genes](figures/GO_upregulated_dotplot_page-0001.png)
 
 This plot summarizes selected GO terms from the report. Bar length represents fold enrichment, not expression fold change or statistical significance. The full enrichment tables are needed to inspect adjusted P values, gene sets and annotation coverage.
 
-More figures and their provenance are in [figures](figures/README.md). Additional findings and limitations are in the [results summary](docs/RESULTS.md).
+More figures and their provenance are in [figures](figures/). Additional findings and limitations are in the [results summary](docs/).
 
 ## Files
 
