@@ -2,8 +2,6 @@
 
 An independent reanalysis of public paired-end RNA-seq data from rice shoots exposed to cadmium. The project follows the analysis from read quality control through genome alignment, gene-level counting, differential expression and functional enrichment.
 
-Repository status publication draft. The reported findings and extracted figures are available. Historical scripts are included for transparency. Final executed scripts, metadata, count/result tables and software-version records still need to be added before this repository supports a complete rerun. See [reproducibility notes](docs/REPRODUCIBILITY.md).
-
 ## Study design
 
 | Item | Description |
@@ -16,7 +14,7 @@ Repository status publication draft. The reported findings and extracted figures
 | Reference used in the project | IRGSP-1.0 genome with corresponding rice gene annotation |
 | Original publication | [Sun et al. (2019), Scientific Reports](https://doi.org/10.1038/s41598-019-46684-w) |
 
-The experiment and sequencing were performed by the original study authors. This repository documents a computational reanalysis. Run-to-condition assignments are documented in [metadata notes](metadata/README.md).
+The experiment and sequencing were performed by the original study authors. This repository documents a computational reanalysis. Run-to-condition assignments are documented in [metadata notes](metadata/).
 
 ## Workflow
 
