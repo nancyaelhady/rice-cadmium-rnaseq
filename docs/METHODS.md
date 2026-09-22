@@ -26,6 +26,6 @@ The archived distance heatmap calls pheatmap on a distance matrix without explic
 
 ## Enrichment
 
-GO and KEGG overrepresentation analyses were conducted for all, upregulated and downregulated significant nuclear `Os` identifiers using clusterProfiler's `enricher`. GO mappings came from Ensembl Plants BioMart; KEGG mappings were requested using organism code `dosa`. BH correction, pvalueCutoff = 0.05 and qvalueCutoff = 0.05 are specified.
+GO and KEGG analyses were conducted for all, upregulated and downregulated significant nuclear `Os` identifiers using clusterProfiler's `enricher`. GO mappings came from Ensembl Plants BioMart; KEGG mappings were requested using organism code `dosa`. BH correction, pvalueCutoff = 0.05 and qvalueCutoff = 0.05 are specified.
 
 The archived background consists of `Os` identifiers in the DESeq2 result object intersected with each annotation resource. It does not explicitly restrict the background to features with non-missing adjusted P values. Describe this accurately; a revision to the eligible background requires rerunning enrichment and replacing its outputs. Archive annotation retrieval dates and exact input mappings where redistribution is permitted. Live database queries can change over time.
